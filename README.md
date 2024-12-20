@@ -51,7 +51,7 @@ I maintain a clean and organized **PowerShell-Scripts** directory, ensuring clea
 ## **Featured Projects**
 Here are some of my key automation projects:  
 
-- [**AD User Creation Script**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/PowerShell-Scripts/AD-Creation)  
+- [**AD User Creation Script**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Powershell-Scripts/AD-Creation)  
   **Purpose:** Automates AD user onboarding (group memberships, email provisioning)  
   **Impact:** Ensures quick, consistent, and secure account provisioning while maintaining compliance.  
   **Key Features:**  
@@ -59,7 +59,7 @@ Here are some of my key automation projects:
   - Hybrid AD/O365 creation support  
   - Group memberships, display name, and user info outputs  
 
-- [**Hybrid Exchange Migration**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/PowerShell-Scripts/Exchange-Scripts/HybridMigration)  
+- [**Hybrid Exchange Migration**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Powershell-Scripts/Exchange-Scripts/HybridMigration)
   **Purpose:** Demonstrates on-prem Exchange to O365 mailbox migrations.  
   **Impact:** Showcases skills in batch creation, migration endpoints, and logging.  
   **Key Features:**  
@@ -67,7 +67,7 @@ Here are some of my key automation projects:
   - Batch processing and logs for visibility  
   - Tracks migration status, progress, and errors  
 
-- [**Exchange Management Tool**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools)  
+- [**Exchange Management Tool**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Powershell-Scripts/Exchange-Scripts/ExchangeOnlineManagement)  
   **Purpose:** Manage hybrid Exchange mailbox configurations and remote mailbox creation.  
   **Impact:** Reduces manual overhead and speeds up mailbox lifecycle management.  
   **Key Features:**  
@@ -75,7 +75,7 @@ Here are some of my key automation projects:
   - **Send As**, **Full Access**, and **Send on Behalf** permission handling  
   - Error handling and script prompts for smooth execution  
 
-- [**PowerShell Cheatsheets**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/PowerShell-Scripts/PS-Cheatsheet)  
+- [**PowerShell Cheatsheets**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Powershell-Scripts/PS-Cheatsheet)  
   **Purpose:** Curated cheatsheets for Exchange, Network, and general IT commands.  
   **Impact:** Accelerates troubleshooting and network diagnostics.  
   **Key Features:**  
