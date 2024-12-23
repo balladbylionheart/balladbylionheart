@@ -118,6 +118,8 @@ Planned projects include:
 - Site-to-Site VPN deployment automation.  
 - Backup and Disaster Recovery solutions.  
 
+These projects will demonstrate advanced skills in Azure resource automation, proactive monitoring, and disaster recovery planning.
+
 Stay tuned for updates as I expand this section!  
 
 ---
