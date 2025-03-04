@@ -1,33 +1,28 @@
-#  Welcome to My GitHub Profile!  
+# Helen Najar | Microsoft & Azure Technologist  | Web Developer
+**PowerShell Automation | M365 & Azure Administration | Security & Compliance**
 
-Hi, I'm **Helen Najar** — an **IT professional** specializing in **Microsoft technologies, Azure, PowerShell automation, and hybrid cloud administration**. I have a passion for creating **efficient, auditable, and reusable scripts** that streamline workflows, enhance security, and drive productivity.  
+Welcome to my GitHub! I specialize in **Microsoft 365, Exchange Online, Azure AD, and PowerShell automation** to enhance security, optimize workflows, and improve enterprise efficiency. Additionally, I have experience in **web development**, designing and deploying secure, scalable websites. My work revolves around:
 
-I bring a strategic, "overkill" approach to every project, ensuring nothing is left unfinished. My tools are **built to last, reusable, and secure**, aligning with industry best practices for compliance and security hardening.
+- **PowerShell Scripting** – Automating **Active Directory, Exchange Online, Intune, and Azure tasks**.  
+- **Microsoft 365 Administration** – Managing **Exchange, SharePoint, Teams, and hybrid AD environments**.  
+- **Security & Compliance** – Implementing **Zero Trust, MFA, Proofpoint, DLP, SPF/DKIM/DMARC email security**.  
+- **Azure Cloud Solutions** – Managing **hybrid cloud infrastructure, security policies, and automation**.  
+- **IT Process Optimization** – Streamlining workflows to reduce **manual effort by 40%+**.
 
----
-
-## **About Me**  
-I'm an IT professional with a strong focus on **Microsoft technologies, PowerShell automation, and hybrid cloud administration**. My expertise lies in streamlining enterprise tasks, integrating on-premises Active Directory with Exchange Online, and improving overall workflow efficiency.  
-
-With a strong focus on **security and compliance**, I ensure every script, process, and solution I create meets the highest standards. From **AD user automation** to **hybrid migrations**, I bring a detail-oriented mindset to every project — ensuring thoroughness and completeness in every project.  
-
-I believe in crafting tools that are:
-- **Reusable** (for long-term value)  
-- **Auditable** (so others can understand them)  
-- **Secure** (because security matters most)  
+I bring a strategic, “overkill” approach to every project, ensuring nothing is left unfinished. My tools are **built to last, reusable, and secure**, aligning with industry best practices for compliance and security hardening.
 
 ---
 
-## **Technical Skills and Expertise**
+## Technical Skills and Expertise
 - **Microsoft Technologies:** Proficient in managing Microsoft O365, Exchange, and Azure environments, ensuring seamless collaboration and enhanced security.  
 - **Automation & Scripting:** Advanced experience in PowerShell scripting, including automation for AD user creation, terminations, hybrid migrations, and Exchange management.  
 - **Active Directory & Exchange:** Extensive knowledge of AD user provisioning, group membership configuration, and hybrid Exchange mailbox migrations.  
 - **Security & Compliance:** Skilled in security hardening, Proofpoint for email security, and leveraging Microsoft Security & Compliance Center.  
-- **Networking & Cloud Integration:** Expertise in network diagnostics, configuration, and seamless integration of on-prem and cloud environments.  
-
+- **Networking & Cloud Integration:** Expertise in network diagnostics, configuration, and seamless integration of on-prem and cloud environments.
+- **Web Development:** Experience in **HTML, CSS, JavaScript**, and **Netlify** for deploying secure, scalable websites.
 ---
 
-## **GitHub Repository Structure**  
+## GitHub Repository Structure
 I maintain a clean and organized **O365-Automation-and-AD-Management-Tools** directory, ensuring clear separation of projects. This structure reflects my commitment to file organization and modular scripting.
 
 ```
@@ -60,79 +55,82 @@ I maintain a clean and organized **O365-Automation-and-AD-Management-Tools** dir
 ├── 📄 LICENSE.md
 └── 📄 README.md
 ```
+---
 
-## **Featured Projects**
-Here are some of my key automation projects:  
+## Featured Projects
+### [O365 Automation & AD Management Tools](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools)
+**PowerShell scripts** for **user provisioning, account termination, and Exchange Online management**.  
+**Purpose:** Automates AD user onboarding (group memberships, email provisioning)  
+**Impact:** Ensures quick, consistent, and secure account provisioning while maintaining compliance  
+**Key Features:**
+- Dynamic input validation  
+- Hybrid AD/O365 creation support  
+- Group memberships, display name, and user info outputs
 
-- [**AD User Creation Script**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Active-Directory/AD-User-Creation)  
-  **Purpose:** Automates AD user onboarding (group memberships, email provisioning)  
-  **Impact:** Ensures quick, consistent, and secure account provisioning while maintaining compliance.  
-  **Key Features:**  
-  - Dynamic input validation  
-  - Hybrid AD/O365 creation support  
-  - Group memberships, display name, and user info outputs  
+### [Hybrid Migration Assistant](https://github.com/Abyloon/Hybrid-Migration-Assistant)
+Automating **batch mailbox migrations in hybrid Exchange environments** using PowerShell.  
+**Purpose:** Demonstrates on-prem Exchange to O365 mailbox migrations  
+**Impact:** Showcases skills in batch creation, migration endpoints, and logging  
+**Key Features:**
+- PowerShell-based endpoint creation  
+- Batch processing and logs for visibility  
+- Tracks migration status, progress, and errors
 
-- [**AD Termination Script**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Active-Directory/AD-User-Termination)  
-  **Purpose:** Automates secure AD account cleanup and archiving for terminated users.  
-  **Impact:** Reduces administrative overhead and ensures compliance with organizational policies.  
-  **Key Features:**  
-  - Moves inactive accounts to a dedicated OU.
-  - Disables user accounts and removes group memberships.
-  - Implements robust error-handling mechanisms to ensure
-  secure and predictable execution.
-  - Logs actions for auditing and compliance reporting.
+### [Azure Portfolio (In Progress)](https://github.com/Abyloon/Azure-Portfolio)
+A collection of **Azure automation scripts, security monitoring, and Intune endpoint management**.
 
-- [**Hybrid Exchange Migration**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Exchange/HybridMigration)
-  **Purpose:** Demonstrates on-prem Exchange to O365 mailbox migrations.  
-  **Impact:** Showcases skills in batch creation, migration endpoints, and logging.  
-  **Key Features:**  
-  - PowerShell-based endpoint creation  
-  - Batch processing and logs for visibility  
-  - Tracks migration status, progress, and errors  
+Planned projects include:
+- Azure AD User Management  
+- Azure Resource Deployment using ARM templates and PowerShell  
+- Hybrid AD Sync for on-prem and Azure AD integration  
+- Azure Monitoring and Alerts for proactive resource management  
+- Site-to-Site VPN deployment automation  
+- Backup and Disaster Recovery solutions
 
-- [**Exchange Management Tool**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Exchange/ExchangeOnlineManagement)  
-  **Purpose:** Manage hybrid Exchange mailbox configurations and remote mailbox creation.  
-  **Impact:** Reduces manual overhead and speeds up mailbox lifecycle management.  
-  **Key Features:**  
-  - Remote mailbox creation for hybrid Exchange  
-  - **Send As**, **Full Access**, and **Send on Behalf** permission handling  
-  - Error handling and script prompts for smooth execution  
+These projects will demonstrate advanced skills in Azure resource automation, proactive monitoring, and disaster recovery planning. Stay tuned for updates as I expand this section!
 
-- [**Powershell Cheatsheets**](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools/tree/main/Powershell-Cheatsheets)  
-  **Purpose:** Curated cheatsheets for Exchange, Network, and general IT commands.  
-  **Impact:** Accelerates troubleshooting and network diagnostics.  
-  **Key Features:**  
-  - Focused, well-structured cheatsheets covering Exchange, Networking, and general IT.
-  - Frequently-used PowerShell commands and automation snippets  
+### [PowerShell Cheatsheets](https://github.com/Abyloon/PS-Cheatsheet)
+Handy **PowerShell commands** for **Exchange, AD, and Networking troubleshooting**  
+**Purpose:** Curated cheatsheets for Exchange, Network, and general IT commands  
+**Impact:** Accelerates troubleshooting and network diagnostics  
+**Key Features:**
+- Well-structured cheatsheets covering Exchange, Networking, and general IT  
+- Frequently-used PowerShell commands and automation snippets
+
+### [Ballads by Dragons](https://www.balladbydragons.org/)  
+A **custom-built poetry website** designed for an elegant and modern user experience.  
+
+**Purpose:** Showcases original poetry in a minimalist, clean web design.  
+**Impact:** Demonstrates front-end development skills and experience with **website hosting & deployment**.  
+
+**Key Features:**  
+- **Built with HTML, CSS** for a simple yet visually appealing layout.  
+- **Hosted on Netlify** for fast, scalable deployment.  
+- **Custom domain & branding** for a personalized touch.  
+
+**Note:** The GitHub repository for this project is private due to confidentiality.
+
+## Technologies & Tools
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abyloon&show_icons=true)
+
+![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square&logo=powershell&logoColor=white)  
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue?style=flat-square&logo=microsoft&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=azuredevops&logoColor=white)  
+![Exchange Online](https://img.shields.io/badge/-Exchange%20Online-blue?style=flat-square&logo=microsoft-exchange&logoColor=white)  
+![Intune](https://img.shields.io/badge/-Intune-blue?style=flat-square&logo=microsoft-intune&logoColor=white)  
+![Security](https://img.shields.io/badge/-Security-green?style=flat-square&logo=security&logoColor=white)
 
 ---
 
-## **Work in Progress (WIP): Azure Portfolio**
-The **Azure Portfolio** directory is currently under development and will feature advanced projects showcasing my expertise in Azure automation, monitoring, and infrastructure deployment.  
-
-Planned projects include:  
-- Azure AD User Management.  
-- Azure Resource Deployment using ARM templates and PowerShell.  
-- Hybrid AD Sync for on-prem and Azure AD integration.  
-- Azure Monitoring and Alerts for proactive resource management.  
-- Site-to-Site VPN deployment automation.  
-- Backup and Disaster Recovery solutions.  
-
-These projects will demonstrate advanced skills in Azure resource automation, proactive monitoring, and disaster recovery planning.
-
-Stay tuned for updates as I expand this section!  
-
----
-## **Why Choose Me?**
-I have a unique approach to every project, combining technical excellence with a **commitment to overkill-level thoroughness**. Here’s why I stand out:  
+## Why Choose Me?
+I have a unique approach to every project, combining technical excellence with a **commitment to overkill-level thoroughness**. Here’s why I stand out:
 
 - **Overkill Approach**: I prioritize completeness and thoroughness in every project.  
 - **Reusable Solutions**: I create efficient, auditable, and reusable scripts.  
 - **Security-Focused**: Strong emphasis on security best practices, privacy, and compliance.  
-- **Professional Presentation**: My repos are organized, annotated, and ready for review.  
+- **Professional Presentation**: My repos are organized, annotated, and ready for review.
 
-These qualities ensure that my automation scripts, hybrid migrations, and Azure workflows meet the highest standards.  
-
+These qualities ensure that my automation scripts, hybrid migrations, and Azure workflows meet the highest standards.
 ---
 
 ## **Let’s Connect**  
