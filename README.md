@@ -7,7 +7,7 @@ Welcome to my GitHub! I specialize in **Microsoft 365, Exchange Online, Azure AD
 - **Microsoft 365 Administration** – Managing **Exchange, SharePoint, Teams, and hybrid AD environments**.  
 - **Security & Compliance** – Implementing **Zero Trust, MFA, Proofpoint, DLP, SPF/DKIM/DMARC email security**.  
 - **Azure Cloud Solutions** – Managing **hybrid cloud infrastructure, security policies, and automation**.  
-- **IT Process Optimization** – Streamlining workflows to reduce **manual effort by 40%+**.
+- **IT Process Optimization** – Automating workflows to reduce **manual effort by 40%+**.
 
 I bring a strategic, “overkill” approach to every project, ensuring nothing is left unfinished. My tools are **built to last, reusable, and secure**, aligning with industry best practices for compliance and security hardening.
 
