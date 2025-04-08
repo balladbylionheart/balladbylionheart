@@ -1,7 +1,11 @@
-# Helen Najar | Microsoft & Azure Technologist  | Web Developer
+# Helen Najar | Microsoft & Azure Technologist | Web Developer  
 **PowerShell Automation | M365 & Azure Administration | Security & Compliance**
 
-Welcome to my GitHub! I specialize in **Microsoft 365, Exchange Online, Azure AD, and PowerShell automation** to enhance security, optimize workflows, and improve enterprise efficiency. Additionally, I have experience in **web development**, designing and deploying secure, scalable websites. My work revolves around:
+*Welcome to the Scrolls — where verse meets logic, and code becomes poetry.*
+
+I specialize in **Microsoft 365, Exchange Online, Azure AD, and PowerShell automation** to enhance security, streamline workflows, and improve enterprise efficiency. I also have experience in **web development**, designing and deploying secure, scalable websites.
+
+My work revolves around:
 
 - **PowerShell Scripting** – Automating **Active Directory, Exchange Online, Intune, and Azure tasks**.  
 - **Microsoft 365 Administration** – Managing **Exchange, SharePoint, Teams, and hybrid AD environments**.  
@@ -134,12 +138,18 @@ I have a unique approach to every project, combining technical excellence with a
 - **Professional Presentation**: My repos are organized, annotated, and ready for review.
 
 These qualities ensure that my automation scripts, hybrid migrations, and Azure workflows meet the highest standards.
+
 ---
 
 ## **Let’s Connect**  
 If you’re interested in my work or want to discuss potential opportunities, feel free to reach out.  
 - [LinkedIn Profile](https://www.linkedin.com/in/helen-najar)  
 - Email: [lionheart@balladbydragons.org](mailto:lionheart@balladbydragons.org)
+
+---
+
+**~ Helen Najar, Lionheart**  
+*Founder of Ballad by Dragons*
 
 ---
 
