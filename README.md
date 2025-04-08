@@ -113,16 +113,15 @@ A **custom-built poetry website** designed for an elegant and modern user experi
 ## Technologies & Tools
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=balladbydragons&show_icons=true)
 
-![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square&logo=powershell&logoColor=white)  
-![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue?style=flat-square&logo=microsoft&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=azuredevops&logoColor=white)  
-![Exchange Online](https://img.shields.io/badge/-Exchange%20Online-blue?style=flat-square&logo=microsoft-exchange&logoColor=white)  
-![Intune](https://img.shields.io/badge/-Intune-blue?style=flat-square&logo=microsoft-intune&logoColor=white)  
-![Security](https://img.shields.io/badge/-Security-green?style=flat-square&logo=security&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
+![Azure](https://img.shields.io/badge/-Azure-blue)
+![Exchange Online](https://img.shields.io/badge/-Exchange%20Online-blue)
+![Intune](https://img.shields.io/badge/-Intune-blue)
+![Security](https://img.shields.io/badge/-Security-green)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
