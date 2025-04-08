@@ -139,6 +139,7 @@ These qualities ensure that my automation scripts, hybrid migrations, and Azure 
 ## **Let’s Connect**  
 If you’re interested in my work or want to discuss potential opportunities, feel free to reach out.  
 - [LinkedIn Profile](https://www.linkedin.com/in/helen-najar)  
+- Email: [lionheart@balladbydragons.org](mailto:lionheart@balladbydragons.org)
 
 ---
 
