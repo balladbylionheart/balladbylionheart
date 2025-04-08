@@ -58,7 +58,7 @@ I maintain a clean and organized **O365-Automation-and-AD-Management-Tools** dir
 ---
 
 ## Featured Projects
-### [O365 Automation & AD Management Tools](https://github.com/Abyloon/O365-Automation-and-AD-Management-Tools)
+### [O365 Automation & AD Management Tools](https://github.com/balladbydragons/O365-Automation-and-AD-Management-Tools)
 **PowerShell scripts** for **user provisioning, account termination, and Exchange Online management**.  
 **Purpose:** Automates AD user onboarding (group memberships, email provisioning)  
 **Impact:** Ensures quick, consistent, and secure account provisioning while maintaining compliance  
@@ -67,7 +67,7 @@ I maintain a clean and organized **O365-Automation-and-AD-Management-Tools** dir
 - Hybrid AD/O365 creation support  
 - Group memberships, display name, and user info outputs
 
-### [Hybrid Migration Assistant](https://github.com/Abyloon/Hybrid-Migration-Assistant)
+### [Hybrid Migration Assistant](https://github.com/balladbydragons/O365-Automation-and-AD-Management-Tools/tree/main/Exchange/HybridMigration)
 Automating **batch mailbox migrations in hybrid Exchange environments** using PowerShell.  
 **Purpose:** Demonstrates on-prem Exchange to O365 mailbox migrations  
 **Impact:** Showcases skills in batch creation, migration endpoints, and logging  
@@ -76,7 +76,7 @@ Automating **batch mailbox migrations in hybrid Exchange environments** using Po
 - Batch processing and logs for visibility  
 - Tracks migration status, progress, and errors
 
-### [Azure Portfolio (In Progress)](https://github.com/Abyloon/Azure-Portfolio)
+### [Azure Portfolio (In Progress)](https://github.com/balladbydragons/O365-Automation-and-AD-Management-Tools/tree/main/Azure-Portfolio)
 A collection of **Azure automation scripts, security monitoring, and Intune endpoint management**.
 
 Planned projects include:
@@ -89,7 +89,7 @@ Planned projects include:
 
 These projects will demonstrate advanced skills in Azure resource automation, proactive monitoring, and disaster recovery planning. Stay tuned for updates as I expand this section!
 
-### [PowerShell Cheatsheets](https://github.com/Abyloon/PS-Cheatsheet)
+### [PowerShell Cheatsheets](https://github.com/balladbydragons/PS-Cheatsheet)
 Handy **PowerShell commands** for **Exchange, AD, and Networking troubleshooting**  
 **Purpose:** Curated cheatsheets for Exchange, Network, and general IT commands  
 **Impact:** Accelerates troubleshooting and network diagnostics  
