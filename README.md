@@ -1,121 +1,103 @@
-# Helen Najar | Microsoft & Azure Technologist | Web Developer  
+# Helen Najar | Microsoft & Azure Technologist | Web Developer
+
 **PowerShell Automation | M365 & Azure Administration | Security & Compliance**
 
 *Welcome to the Scrolls — where verse meets logic, and code becomes poetry.*
 
-I specialize in **Microsoft 365, Exchange Online, Azure AD, and PowerShell automation** to enhance security, streamline workflows, and improve enterprise efficiency. I also have experience in **web development**, designing and deploying secure, scalable websites.
+I specialize in **Microsoft 365, Exchange Online, Azure AD, and PowerShell automation** to enhance security, streamline workflows, and improve enterprise efficiency. I also build secure, scalable websites rooted in custom design.
 
 My work revolves around:
 
-- **PowerShell Scripting** – Automating **Active Directory, Exchange Online, Intune, and Azure tasks**.  
-- **Microsoft 365 Administration** – Managing **Exchange, SharePoint, Teams, and hybrid AD environments**.  
-- **Security & Compliance** – Implementing **Zero Trust, MFA, Proofpoint, DLP, SPF/DKIM/DMARC email security**.  
-- **Azure Cloud Solutions** – Managing **hybrid cloud infrastructure, security policies, and automation**.  
-- **IT Process Optimization** – Automating workflows to reduce **manual effort by 40%+**.
+* **PowerShell Scripting** – Automating **Active Directory, Exchange Online, Intune, and Azure tasks**.
+* **Microsoft 365 Administration** – Managing **Exchange, SharePoint, Teams, and hybrid AD environments**.
+* **Security & Compliance** – Implementing **Zero Trust, MFA, Proofpoint, DLP, SPF/DKIM/DMARC email security**.
+* **Azure Cloud Solutions** – Managing **hybrid infrastructure, security policies, monitoring, and automation**.
+* **IT Process Optimization** – Automating workflows to reduce **manual effort by 40%+**.
 
-I bring a strategic, “overkill” approach to every project, ensuring nothing is left unfinished. My tools are **built to last, reusable, and secure**, aligning with industry best practices for compliance and security hardening.
+My tools are **strategic, reusable, and secure**, crafted with overkill-level care and aligned with industry best practices.
 
 ---
 
-## Technical Skills and Expertise
-- **Microsoft Technologies:** Proficient in managing Microsoft O365, Exchange, and Azure environments, ensuring seamless collaboration and enhanced security.  
-- **Automation & Scripting:** Advanced experience in PowerShell scripting, including automation for AD user creation, terminations, hybrid migrations, and Exchange management.  
-- **Active Directory & Exchange:** Extensive knowledge of AD user provisioning, group membership configuration, and hybrid Exchange mailbox migrations.  
-- **Security & Compliance:** Skilled in security hardening, Proofpoint for email security, and leveraging Microsoft Security & Compliance Center.  
-- **Networking & Cloud Integration:** Expertise in network diagnostics, configuration, and seamless integration of on-prem and cloud environments.
-- **Web Development:** Experience in **HTML, CSS, JavaScript**, and **Netlify** for deploying secure, scalable websites.
----
-
-## GitHub Repository Structure
-I maintain a clean and organized **O365-Automation-and-AD-Management-Tools** directory, ensuring clear separation of projects. This structure reflects my commitment to file organization and modular scripting.
+## Repository Collection
 
 ```
-📁 O365-Automation-and-AD-Management-Tools
-├── 📁 Active-Directory
-│   ├── 📂 AD-User-Creation
-│   │   ├── 📂 AD-Creation-Basic
-│   │   ├── 📂 AD-Creation-Detailed
-│   │   └── 📂 AD-O365Hybrid-UserCreation
-│   ├── 📂 AD-User-Termination
-│   │   └── 📄 AD-Termination.ps1
-│   └── 📄 README.md
-├── 📁 Exchange
-│   ├── 📂 ExchangeOnlineManagement
-│   └── 📂 HybridMigration
-├── 📁 Powershell-Cheatsheets
-│   ├── 📂 Exchange-Cheatsheet
-│   ├── 📂 Network-Cheatsheet
-│   └── 📂 General-Cheatsheet
-├── 📁 Azure-Portfolio
-│   ├── 📂 AzureAD-UserManagement
-│   ├── 📂 Azure-Resource-Deployment
-│   ├── 📂 Hybrid-AD-Sync
-│   ├── 📂 Azure-Monitoring-Alerts
-│   ├── 📂 Azure-S2S-VPN
-│   ├── 📂 Azure-DevOps-Pipeline
-│   ├── 📂 Azure-Backup-DR
-│   └── 📂 Azure-MFA-Reports
-├── 📄 .gitignore
-├── 📄 LICENSE.md
-└── 📄 README.md
+📁 Exchange-Hybrid-Tools
+📁 ActiveDirectory-Automation
+📁 powershell-guided-scrolls
+📁 Azure-IT-Portfolio
 ```
+
 ---
 
 ## Featured Projects
-### [O365 Automation & AD Management Tools](https://github.com/balladbydragons/O365-Automation-and-AD-Management-Tools)
-**PowerShell scripts** for **user provisioning, account termination, and Exchange Online management**.  
-**Purpose:** Automates AD user onboarding (group memberships, email provisioning)  
-**Impact:** Ensures quick, consistent, and secure account provisioning while maintaining compliance  
-**Key Features:**
-- Dynamic input validation  
-- Hybrid AD/O365 creation support  
-- Group memberships, display name, and user info outputs
 
-### [Hybrid Migration Assistant](https://github.com/balladbydragons/O365-Automation-and-AD-Management-Tools/tree/main/Exchange/HybridMigration)
-Automating **batch mailbox migrations in hybrid Exchange environments** using PowerShell.  
-**Purpose:** Demonstrates on-prem Exchange to O365 mailbox migrations  
-**Impact:** Showcases skills in batch creation, migration endpoints, and logging  
-**Key Features:**
-- PowerShell-based endpoint creation  
-- Batch processing and logs for visibility  
-- Tracks migration status, progress, and errors
+### [Exchange Hybrid Tools](https://github.com/balladbydragons/Exchange-Hybrid-Tools)
 
-### [Azure Portfolio (In Progress)](https://github.com/balladbydragons/O365-Automation-and-AD-Management-Tools/tree/main/Azure-Portfolio)
-A collection of **Azure automation scripts, security monitoring, and Intune endpoint management**.
+PowerShell automation for managing **Exchange Online, hybrid migrations, and O365 account lifecycles**.
 
-Planned projects include:
-- Azure AD User Management  
-- Azure Resource Deployment using ARM templates and PowerShell  
-- Hybrid AD Sync for on-prem and Azure AD integration  
-- Azure Monitoring and Alerts for proactive resource management  
-- Site-to-Site VPN deployment automation  
-- Backup and Disaster Recovery solutions
+**Includes:**
 
-These projects will demonstrate advanced skills in Azure resource automation, proactive monitoring, and disaster recovery planning. Stay tuned for updates as I expand this section!
+* AD-O365 hybrid user creation & termination
+* Shared mailbox & distribution group automation
+* Hybrid mailbox migration assistant with logging and batch management
 
-### [PowerShell Cheatsheets](https://github.com/balladbydragons/PS-Cheatsheet)
-Handy **PowerShell commands** for **Exchange, AD, and Networking troubleshooting**  
-**Purpose:** Curated cheatsheets for Exchange, Network, and general IT commands  
-**Impact:** Accelerates troubleshooting and network diagnostics  
-**Key Features:**
-- Well-structured cheatsheets covering Exchange, Networking, and general IT  
-- Frequently-used PowerShell commands and automation snippets
+---
 
-### [Ballads by Dragons](https://www.balladbydragons.org/)  
-A **custom-built poetry website** designed for an elegant and modern user experience.  
+### [Active Directory Automation](https://github.com/balladbydragons/ActiveDirectory-Automation)
 
-**Purpose:** Showcases original poetry in a minimalist, clean web design.  
-**Impact:** Demonstrates front-end development skills and experience with **website hosting & deployment**.  
+Automates **AD user creation, account cleanup, and group assignment workflows**.
 
-**Key Features:**  
-- **Built with HTML, CSS** for a simple yet visually appealing layout.  
-- **Hosted on Netlify** for fast, scalable deployment.  
-- **Custom domain & branding** for a personalized touch.  
+**Features:**
 
-**Note:** The GitHub repository for this project is private due to confidentiality.
+* Separate scripts for basic and advanced user provisioning
+* Future additions will include standard AD-only account terminations
+* Clear OU management, permission assignments, and compliance-first logic
+
+---
+
+### [PowerShell Guided Scrolls](https://github.com/balladbydragons/powershell-guided-scrolls)
+
+A collection of curated **PowerShell scrolls** for Exchange, networking, and system tasks.
+These aren’t scripts—they’re living reference scrolls for quick use in real-world troubleshooting.
+
+**Includes:**
+
+* Exchange GuidedScroll: Permissions, mailbox management, group edits
+* Network GuidedScroll: VPN, port tests, DNS, resets, and diagnostics
+* General GuidedScroll: AD queries, service checks, cleanup, and ACL auditing
+
+---
+
+### [Azure IT Portfolio](https://github.com/balladbydragons/Azure-IT-Portfolio)
+
+🚧 **Work in Progress** — Demonstrates Azure automation, hybrid sync, cloud monitoring, and MFA security.
+
+**Current & Upcoming Projects:**
+
+* Bulk Azure AD user creation via CSV
+* Conditional access and MFA status reporting
+* Hybrid AD Sync between on-prem and cloud
+* Azure alerts, VPN deployment, and disaster recovery scripting
+* YAML-based Azure DevOps pipelines
+
+---
+
+### [Ballads by Dragons](https://www.balladbydragons.org/)
+
+A custom-built poetry archive and creative brand.
+**Designed, coded, and spoken by Helen Najar | Lionheart**
+
+**Built with:**
+
+* HTML5, CSS, and Netlify hosting
+* Brand identity inspired by faith, fire, and resilience
+* Blends creativity, mysticism, and IT expertise in one unified voice
+
+---
 
 ## Technologies & Tools
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=balladbydragons&show_icons=true)
+
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=balladbydragons\&show_icons=true)
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
@@ -123,34 +105,32 @@ A **custom-built poetry website** designed for an elegant and modern user experi
 ![Exchange Online](https://img.shields.io/badge/-Exchange%20Online-blue)
 ![Intune](https://img.shields.io/badge/-Intune-blue)
 ![Security](https://img.shields.io/badge/-Security-green)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 
 ---
 
 ## Why Choose Me?
-I have a unique approach to every project, combining technical excellence with a **commitment to overkill-level thoroughness**. Here’s why I stand out:
 
-- **Overkill Approach**: I prioritize completeness and thoroughness in every project.  
-- **Reusable Solutions**: I create efficient, auditable, and reusable scripts.  
-- **Security-Focused**: Strong emphasis on security best practices, privacy, and compliance.  
-- **Professional Presentation**: My repos are organized, annotated, and ready for review.
-
-These qualities ensure that my automation scripts, hybrid migrations, and Azure workflows meet the highest standards.
+* **Overkill Approach** – No half-measures. Everything is tested, annotated, and versioned.
+* **Secure by Design** – MFA, credential prompts, certificate respect, and `.gitignore` discipline.
+* **Highly Organized** – Clean repos, nested folders, and clear documentation.
+* **Cross-Skilled** – Equally fluent in Azure, Exchange, PowerShell, and design.
 
 ---
 
-## **Let’s Connect**  
-If you’re interested in my work or want to discuss potential opportunities, feel free to reach out.  
-- [LinkedIn Profile](https://www.linkedin.com/in/helen-najar)  
-- Email: [lionheart@balladbydragons.org](mailto:lionheart@balladbydragons.org)
+## Let’s Connect
+
+* **LinkedIn**: [Helen Najar](https://www.linkedin.com/in/helen-najar)
+* **Email**: [lionheart@balladbydragons.org](mailto:lionheart@balladbydragons.org)
+* **Website**: [BalladByDragons.org](https://www.balladbydragons.org/)
 
 ---
 
-~ **Helen Najar, Lionheart**  
+~ **Helen Najar, Lionheart**
 *Founder of Ballad by Dragons*
 
 ---
 
-**Check out my repositories below!**
+**Explore the Scrolls below. Let your curiosity burn bright.**
