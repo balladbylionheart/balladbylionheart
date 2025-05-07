@@ -148,7 +148,7 @@ If you’re interested in my work or want to discuss potential opportunities, fe
 
 ---
 
-**~ Helen Najar, Lionheart**  
+~ **Helen Najar, Lionheart**  
 *Founder of Ballad by Dragons*
 
 ---
