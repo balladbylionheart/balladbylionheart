@@ -45,12 +45,12 @@ PowerShell automation for managing **Exchange Online, hybrid migrations, and O36
 
 ### [Active Directory Automation](https://github.com/balladbydragons/ActiveDirectory-Automation)
 
-Automates **AD user creation, account cleanup, and group assignment workflows**.
+Automates **AD user creation, secure termination, account cleanup, and group assignment workflows**.
 
 **Features:**
 
 * Separate scripts for basic and advanced user provisioning
-* Future additions will include standard AD-only account terminations
+* NEW: **Standard Active Directory Termination Script** — no hybrid/mailbox dependencies
 * Clear OU management, permission assignments, and compliance-first logic
 
 ---
