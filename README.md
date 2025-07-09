@@ -31,7 +31,7 @@ My tools are **strategic, reusable, and secure**, crafted with overkill-level ca
 
 ## Featured Projects
 
-### [Exchange Hybrid Tools](https://github.com/balladbydragons/Exchange-Hybrid-Tools)
+### [Exchange Hybrid Tools](https://github.com/balladbylionheart/Exchange-Hybrid-Tools)
 
 PowerShell automation for managing **Exchange Online, hybrid migrations, and O365 account lifecycles**.
 
@@ -43,7 +43,7 @@ PowerShell automation for managing **Exchange Online, hybrid migrations, and O36
 
 ---
 
-### [Active Directory Automation](https://github.com/balladbydragons/ActiveDirectory-Automation)
+### [Active Directory Automation](https://github.com/balladbylionheart/ActiveDirectory-Automation)
 
 Automates **AD user creation, secure termination, account cleanup, and group assignment workflows**.
 
@@ -55,7 +55,7 @@ Automates **AD user creation, secure termination, account cleanup, and group ass
 
 ---
 
-### [PowerShell Guided Scrolls](https://github.com/balladbydragons/powershell-guided-scrolls)
+### [PowerShell Guided Scrolls](https://github.com/balladbylionheart/powershell-guided-scrolls)
 
 A collection of curated **PowerShell scrolls** for Exchange, networking, and system tasks.
 These aren’t scripts—they’re living reference scrolls for quick use in real-world troubleshooting.
@@ -68,7 +68,7 @@ These aren’t scripts—they’re living reference scrolls for quick use in rea
 
 ---
 
-### [Azure IT Portfolio](https://github.com/balladbydragons/Azure-IT-Portfolio)
+### [Azure IT Portfolio](https://github.com/balladbylionheart/Azure-IT-Portfolio)
 
 🚧 **Work in Progress** — Demonstrates Azure automation, hybrid sync, cloud monitoring, and MFA security.
 
@@ -82,7 +82,7 @@ These aren’t scripts—they’re living reference scrolls for quick use in rea
 
 ---
 
-### [Ballads by Dragons](https://www.balladbydragons.org/)
+### [Ballads by Lionheart](https://www.balladbylionheart.com/)
 
 A custom-built poetry archive and creative brand.
 **Designed, coded, and spoken by Helen Najar | Lionheart**
@@ -97,7 +97,7 @@ A custom-built poetry archive and creative brand.
 
 ## Technologies & Tools
 
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=balladbydragons\&show_icons=true)
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=balladbylionheart\&show_icons=true)
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
@@ -123,13 +123,13 @@ A custom-built poetry archive and creative brand.
 ## Let’s Connect
 
 * **LinkedIn**: [Helen Najar](https://www.linkedin.com/in/helen-najar)
-* **Email**: [lionheart@balladbydragons.org](mailto:lionheart@balladbydragons.org)
-* **Website**: [BalladByDragons.org](https://www.balladbydragons.org/)
+* **Email**: [lionheart@balladbylionheart.com](mailto:lionheart@balladbylionheart.com)
+* **Website**: [balladbylionheart.com](https://www.balladbylionheart.com/)
 
 ---
 
 ~ **Helen Najar, Lionheart**
-*Founder of Ballad by Dragons*
+*Founder of Ballad by Lionheart*
 
 ---
 
