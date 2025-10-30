@@ -25,11 +25,29 @@ My tools are **strategic, reusable, and secure**, crafted with overkill-level ca
 📁 ActiveDirectory-Automation
 📁 powershell-guided-scrolls
 📁 Azure-IT-Portfolio
+📁 EveryDaySoul-CyberScroll
 ```
 
 ---
 
 ## Featured Projects
+
+### [Everyday Soul — CyberScrolls](https://github.com/balladbylionheart/EverydaySoul-CyberScrolls)
+
+🚧 **Work in Progress** — A reflective cybersecurity series blending **technical recovery guides** with **faith-inspired calm and poetic clarity.**
+Each “CyberScroll” teaches real-world protection and mindful response after digital mishaps.
+
+**Featuring Episodes:**
+
+* **EP01 – Revive Your Slow PC**  🚧 *Work in Progress*
+* **EP02 – Disk Cleanup**  🚧 *Work in Progress*
+* **EP03 – The Inbox Trap**  🚧 *Work in Progress*
+* **EP04 – Track the Tricksters with MXToolbox**  🚧 *Work in Progress*
+* **EP05 – Follow the False Trail**  🚧 *Work in Progress*
+* **EP06 – Unmasking the Engines**  🚧 *Work in Progress*
+* [EP07 – After the Click](https://github.com/balladbylionheart/EverydaySoul-CyberScrolls/tree/main/EP07-AfterTheClick) ⭐ Released!
+
+---
 
 ### [Exchange Hybrid Tools](https://github.com/balladbylionheart/Exchange-Hybrid-Tools)
 
