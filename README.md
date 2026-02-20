@@ -115,7 +115,7 @@ A custom-built poetry archive and creative brand.
 
 ## Technologies & Tools
 
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=balladbylionheart\&show_icons=true)
+![Helen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=balladbylionheart&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
