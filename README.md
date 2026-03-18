@@ -1,6 +1,6 @@
 # Helen Najar | Microsoft & Azure Technologist | Web Developer
 
-**PowerShell Automation | M365 & Azure Administration | Security & Compliance**
+**PowerShell Automation | M365 & Azure Administration | Security, Compliance & Technical Storytelling**
 
 *Welcome to the Scrolls — where verse meets logic, and code becomes poetry.*
 
@@ -26,26 +26,45 @@ My tools are **strategic, reusable, and secure**, crafted with overkill-level ca
 📁 powershell-guided-scrolls
 📁 Azure-IT-Portfolio
 📁 EveryDaySoul-CyberScroll
+📁 CyberScrolls-CertificationBallads
 ```
 
 ---
 
+### 🎼 [CyberScrolls — Certification Ballads](https://github.com/balladbylionheart/CyberScrolls-CertificationBallads)
+
+A creative learning project where **certification concepts are transformed into poetic ballads** for clarity and retention.
+
+This series focuses on simplifying complex topics like:
+
+- Cloud models (IaaS, PaaS, SaaS)
+- Security fundamentals
+- Certification pathways (starting with SC-900)
+
+Designed to make learning **memorable, structured, and intuitive**.
+
+---
+
 ## Featured Projects
+### 🛡️ [Everyday Soul — CyberScrolls](https://github.com/balladbylionheart/EverydaySoul-CyberScrolls)
 
-### [Everyday Soul — CyberScrolls](https://github.com/balladbylionheart/EverydaySoul-CyberScrolls)
+A completed cybersecurity learning series blending **practical defense**, **recovery guidance**, and **poetic clarity**.  
+Each “CyberScroll” teaches real-world protection — from basic system care to identity security.
 
-🚧 **Work in Progress** — A reflective cybersecurity series blending **technical recovery guides** with **faith-inspired calm and poetic clarity.**
-Each “CyberScroll” teaches real-world protection and mindful response after digital mishaps.
+**Full Series (10 Episodes):**
 
-**Featuring Episodes:**
+- **EP01 – Revive Your Slow PC**
+- **EP02 – Disk Cleanup: Isn’t Just About Space**
+- **EP03 – The Inbox Trap**
+- **EP04 – Track the Tricksters with MXToolbox**
+- **EP05 – Follow the False Trail: Scan the Link Before You Sink**
+- **EP06 – Unmasking the Engines**
+- **EP07 – After the Click**
+- **EP08 – Fortify the Dock**
+- **EP09 – The Second Key**
+- **EP10 – Anchor the Logs**
 
-* **EP01 – Revive Your Slow PC**  🚧 *Work in Progress*
-* **EP02 – Disk Cleanup**  🚧 *Work in Progress*
-* **EP03 – The Inbox Trap**  🚧 *Work in Progress*
-* **EP04 – Track the Tricksters with MXToolbox**  🚧 *Work in Progress*
-* **EP05 – Follow the False Trail**  🚧 *Work in Progress*
-* **EP06 – Unmasking the Engines**  🚧 *Work in Progress*
-* [EP07 – After the Click](https://github.com/balladbylionheart/EverydaySoul-CyberScrolls/tree/main/EP07-AfterTheClick) ⭐ Released!
+📜 Includes structured READMEs, downloadable PDF guides, and practical step-by-step security workflows.
 
 ---
 
